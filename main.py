@@ -1,6 +1,5 @@
 import requests
-from bs4 import BeautifulSoup 
-
+from bs4 import BeautifulSoup
 
 userDrama = ['alice', 'running man', 'flower of evil', 'how do you play']
 userAnime = ['jujutsu kaisen', 'maou gakuin', 'major 2nd', 'enen no', 'souma', 'appare', 'ahiru no sora', 'black clover']
